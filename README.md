@@ -1,3 +1,5 @@
+# 🚫 This repository has been archived
+
 # stylus-loader
 A [stylus](http://learnboost.github.io/stylus/) loader for [webpack](https://github.com/webpack/webpack).
 
